@@ -266,19 +266,15 @@ curl -X POST http://localhost:3000/api/employees \
 
 **GET Request - Retrieve All Employees:**
 
-![Postman GET Request](https://via.placeholder.com/800x450/0089D6/FFFFFF?text=Postman+GET+/api/employees)
+![Postman GET Request](https://github.com/Xavious2604/employee-api/blob/main/uploads/Get.PNG)
 
 **POST Request - Create New Employee:**
 
-![Postman POST Request](https://via.placeholder.com/800x450/43853D/FFFFFF?text=Postman+POST+/api/employees)
+![Postman POST Request](https://github.com/Xavious2604/employee-api/blob/main/uploads/Post.PNG)
 
-### Project Structure in VS Code
+**Delete Request - Delete Exsisting Employee:**
 
-![VS Code Project](https://via.placeholder.com/800x450/404D59/FFFFFF?text=VS+Code+Project+Structure)
-
-### Azure Portal - App Service
-
-![Azure App Service](https://via.placeholder.com/800x450/0078D4/FFFFFF?text=Azure+App+Service+Dashboard)
+![Postman DELETE Request](https://github.com/Xavious2604/employee-api/blob/main/uploads/Delete.PNG)
 
 ---
 
